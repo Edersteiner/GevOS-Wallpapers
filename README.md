@@ -17,6 +17,13 @@ A collection of 16-color wallpapers in a format that GevOS can read.
 
 ![Mojave image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/mojave.jpg)
 
+### Doom Slayer
+
+![Doom image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/doomslayer.jpg)
+
+### Tux Ranger
+![Tux image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/tuxranger.jpg)
+
 ### Kamal Developers
 
 ![Kamaldevs image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/kamaldev.jpg)
