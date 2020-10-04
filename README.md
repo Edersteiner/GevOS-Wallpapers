@@ -17,6 +17,10 @@ A collection of 16-color wallpapers in a format that GevOS can read.
 
 ![Mojave image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/mojave.jpg)
 
+### Galaxy (MacOS Snow Leopard)
+
+![Galaxy image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/galaxy.jpg)
+
 ### And justice for all...
 
 ![Justice image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/justice.jpg)
