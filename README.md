@@ -17,6 +17,14 @@ A collection of 16-color wallpapers in a format that GevOS can read.
 
 ![Mojave image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/mojave.jpg)
 
+### And justice for all...
+
+![Justice image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/justice.jpg)
+
+### Rust in peace
+
+![rustinpeace image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/rustinpeace.jpg)
+
 ### Doom Slayer
 
 ![Doom image](https://github.com/Edersteiner/GevOS-Wallpapers/blob/main/PREVIEWS/doomslayer.jpg)
